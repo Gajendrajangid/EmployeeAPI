@@ -1,0 +1,9 @@
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.ViewModels\bin\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.deps.json
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.ViewModels\bin\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.dll
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.ViewModels\bin\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.pdb
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.ViewModels\obj\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.csproj.AssemblyReference.cache
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.ViewModels\obj\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.AssemblyInfoInputs.cache
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.ViewModels\obj\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.AssemblyInfo.cs
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.ViewModels\obj\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.ViewModels\obj\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.dll
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.ViewModels\obj\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.pdb

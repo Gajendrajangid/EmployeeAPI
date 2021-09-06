@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmployeeAPI.Interface/1.0.0": {
+        "dependencies": {
+          "EmployeeAPI.Models": "1.0.0",
+          "EmployeeAPI.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeAPI.Interface.dll": {}
+        }
+      },
+      "EmployeeAPI.Models/1.0.0": {
+        "runtime": {
+          "EmployeeAPI.Models.dll": {}
+        }
+      },
+      "EmployeeAPI.ViewModels/1.0.0": {
+        "runtime": {
+          "EmployeeAPI.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeAPI.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeAPI.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeAPI.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\bin\Debug\netcoreapp3.1\EmployeeAPI.Interface.deps.json
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\bin\Debug\netcoreapp3.1\EmployeeAPI.Interface.dll
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\bin\Debug\netcoreapp3.1\EmployeeAPI.Interface.pdb
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\bin\Debug\netcoreapp3.1\EmployeeAPI.Models.dll
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\bin\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.dll
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\bin\Debug\netcoreapp3.1\EmployeeAPI.Models.pdb
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\bin\Debug\netcoreapp3.1\EmployeeAPI.ViewModels.pdb
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\obj\Debug\netcoreapp3.1\EmployeeAPI.Interface.csproj.AssemblyReference.cache
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\obj\Debug\netcoreapp3.1\EmployeeAPI.Interface.AssemblyInfoInputs.cache
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\obj\Debug\netcoreapp3.1\EmployeeAPI.Interface.AssemblyInfo.cs
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\obj\Debug\netcoreapp3.1\EmployeeAPI.Interface.csproj.CoreCompileInputs.cache
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\obj\Debug\netcoreapp3.1\EmployeeAPI.Interface.csproj.CopyComplete
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\obj\Debug\netcoreapp3.1\EmployeeAPI.Interface.dll
+C:\Users\GAJENDRA\source\repos\EmployeeAPI\EmployeeAPI.Interface\obj\Debug\netcoreapp3.1\EmployeeAPI.Interface.pdb
